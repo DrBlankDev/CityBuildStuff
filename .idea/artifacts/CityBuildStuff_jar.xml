@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CityBuildStuff:jar">
+    <output-path>$PROJECT_DIR$/../Plugins von Eclipse</output-path>
+    <root id="archive" name="CityBuildStuff.jar">
+      <element id="module-output" name="CityBuildStuff" />
+    </root>
+  </artifact>
+</component>

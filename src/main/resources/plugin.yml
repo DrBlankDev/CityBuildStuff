@@ -1,0 +1,158 @@
+name: CityBuildStuff
+version: '${project.version}'
+main: at.blank.citybuildstuff.CityBuildStuff
+author: DrBlankx33
+api-version: 1.18
+softdepend:
+  - Vault
+  - LuckPerms
+
+commands:
+  rename:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  addlore:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  removelore:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  sell:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  buy:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  skills:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  setskillshop:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  setsellshop:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  setshop:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  setrangshop:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  rtp:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  prtp:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  help:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+    aliases: [ hilfe ]
+  effekte:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+    aliases: [ effects, particle, partikel ]
+  shop:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  backpack:
+    aliases: [ bp ]
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  rubies:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  rubiespay:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  rubiestop:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  coins:
+    aliases: [ money, geld]
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  spawn:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  setspawn:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  tp:
+    aliases: [ teleport ]
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  tpa:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  tphere:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  setwarp:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  delwarp:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  warp:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  pay:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  top:
+    aliases: [ moneytop, geldtop ]
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  cc:
+    aliases: [ chatclear ]
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  dev:
+    aliases: [ developer ]
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  ec:
+    aliases: [ enderchest ]
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  feed:
+    aliases: [ hunger ]
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  fly:
+    aliases: [ fliegen ]
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  gm:
+    aliases: [ gamemode ]
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  globalmute:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  hat:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  head:
+    aliases: [ kopf ]
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  heal:
+    aliases: [ heilen ]
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  clear:
+    aliases: [ invclear ]
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  invsee:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  sign:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  cspy:
+    aliases: [ commandspy ]
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  unsign:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  vanish:
+    aliases: [ v ]
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  sethome:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  delhome:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  home:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  clan:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  mutehistory:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  tempmute:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  unmute:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  mute:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  banhistory:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  ban:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  tempban:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  unban:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  glow:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  unglow:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  dailyrewards:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  msg:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  reply:
+    aliases: [ r ]
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  rangupgrade:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
+  premium:
+    usage: Error from the plugin SpigotStuff pls contact the admin or blankx33
